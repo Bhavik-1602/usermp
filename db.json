@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "9f3f",
+      "name": "Bhavik Dhirubhai Vala",
+      "email": "bhavikvala858@gmail.com"
+    },
+    {
+      "id": "aa1e",
+      "name": "dhaval",
+      "email": "bhavikvala858@gmail.com",
+      "password": "Bhavikvala"
+    },
+    {
+      "id": "070a",
+      "name": "Bhavik Dhirubhai Vala",
+      "email": "bhavikvala858@gmail.com",
+      "password": "454545"
+    },
+    {
+      "id": "c13b",
+      "name": "val",
+      "email": "bhavikvala858@gmail.com",
+      "password": "Bhavikvala",
+      "url":"https://api.cloudinary.com/v1_1/du0wr4yhi/image/upload"
+    }
+  ]
+}
